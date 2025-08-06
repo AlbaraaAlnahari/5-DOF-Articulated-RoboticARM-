@@ -1,6 +1,7 @@
 # 5-DOF Articulated Robotic Arm (TinkerCAD Design)
 
-![Robotic Arm Preview](./your-image-file.png)
+![Robotic Arm Preview](images/robot-arm.png)
+
 
 ## 🛠️ Project Description
 
